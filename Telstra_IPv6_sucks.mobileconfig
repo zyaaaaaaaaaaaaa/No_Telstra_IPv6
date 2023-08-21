@@ -17,7 +17,7 @@
 					<key>DefaultProtocolMask</key>
 					<integer>1</integer>
 					<key>Name</key>
-					<string>telstra.internet</string>
+					<string>CTNET</string>
 				</dict>
 			</array>
 			<key>AttachAPN</key>
@@ -27,7 +27,7 @@
 				<key>AuthenticationType</key>
 				<string>PAP</string>
 				<key>Name</key>
-				<string>telstra.internet</string>
+				<string>CTNET</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures cellular data settings</string>
@@ -46,7 +46,7 @@
 	<key>PayloadDescription</key>
 	<string>Disable IPv6 connection on Telstra Cellular Internet</string>
 	<key>PayloadDisplayName</key>
-	<string>Telstra_IPv6_sucks</string>
+	<string>CTNET_IPv6_sucks</string>
 	<key>PayloadIdentifier</key>
 	<string>hhs-MacBook-Pro.D711ECCA-ED72-485C-A0F9-28A74BA333C7</string>
 	<key>PayloadRemovalDisallowed</key>
